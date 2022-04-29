@@ -1,0 +1,25 @@
+h1, h2 {
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+  
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: 200px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}

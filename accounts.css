@@ -1,0 +1,11 @@
+.aligned {
+    position: absolute;
+    top: 130px;
+    left: 190px;
+    display: flex;
+    align-items: center;
+}
+
+span {
+    padding: 10px;
+}
