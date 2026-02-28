@@ -1,0 +1,379 @@
+{
+  "General Knowledge": [
+    {
+      "question": "What is the capital city of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "Which is the largest continent by land area?",
+      "options": ["Africa", "Asia", "Europe", "North America"],
+      "correctOptionIndex": 1
+    },
+    {
+      "question": "Who wrote the play \u0027Romeo and Juliet\u0027?",
+      "options": [
+        "Charles Dickens",
+        "William Shakespeare",
+        "Jane Austen",
+        "Mark Twain"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "South Korea", "Thailand", "Japan"],
+      "correctOptionIndex": 3
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "Which ocean is the largest?",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "How many colors are there in a rainbow?",
+      "options": ["5", "6", "7", "8"],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "Which organ pumps blood through the human body?",
+      "options": ["Lungs", "Liver", "Heart", "Kidney"],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "What is the currency of the United Kingdom?",
+      "options": ["Euro", "Pound Sterling", "Dollar", "Yen"],
+      "correctOptionIndex": 1
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+      "correctOptionIndex": 1
+    }
+  ],
+  "Science": [
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["O2", "H2O", "CO2", "NaCl"],
+      "correctOptionIndex": 1
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere during photosynthesis?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "What is the center of an atom called?",
+      "options": ["Electron", "Nucleus", "Proton", "Orbit"],
+      "correctOptionIndex": 1
+    },
+    {
+      "question": "Which force keeps planets in orbit around the sun?",
+      "options": ["Magnetism", "Friction", "Gravity", "Electric force"],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "What is the boiling point of water at sea level in degrees Celsius?",
+      "options": ["90", "95", "100", "110"],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "Which vitamin is mainly produced in the skin when exposed to sunlight?",
+      "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+      "correctOptionIndex": 3
+    },
+    {
+      "question": "What part of the cell contains genetic material?",
+      "options": ["Cell membrane", "Nucleus", "Cytoplasm", "Ribosome"],
+      "correctOptionIndex": 1
+    },
+    {
+      "question": "Which planet has the most moons as currently known?",
+      "options": ["Earth", "Mars", "Saturn", "Venus"],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "What is the process by which a liquid turns into a gas?",
+      "options": ["Condensation", "Evaporation", "Freezing", "Sublimation"],
+      "correctOptionIndex": 1
+    },
+    {
+      "question": "What instrument is used to measure atmospheric pressure?",
+      "options": ["Thermometer", "Barometer", "Hygrometer", "Altimeter"],
+      "correctOptionIndex": 1
+    }
+  ],
+  "Sports": [
+    {
+      "question": "How many players are there in a standard soccer team on the field?",
+      "options": ["9", "10", "11", "12"],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "In cricket, how many runs are awarded for hitting the ball over the boundary without bouncing?",
+      "options": ["4", "5", "6", "7"],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "Which country hosts the Wimbledon tennis tournament?",
+      "options": ["United States", "Australia", "France", "United Kingdom"],
+      "correctOptionIndex": 3
+    },
+    {
+      "question": "In basketball, how many points is a free throw worth?",
+      "options": ["1", "2", "3", "4"],
+      "correctOptionIndex": 0
+    },
+    {
+      "question": "Which sport uses a shuttlecock?",
+      "options": ["Tennis", "Badminton", "Squash", "Table Tennis"],
+      "correctOptionIndex": 1
+    },
+    {
+      "question": "How long is an Olympic swimming pool?",
+      "options": ["25 meters", "40 meters", "50 meters", "100 meters"],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "What is the highest governing body of world football?",
+      "options": ["UEFA", "AFC", "FIFA", "IOC"],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "In which sport is the term \u0027love\u0027 used for zero?",
+      "options": ["Tennis", "Golf", "Volleyball", "Hockey"],
+      "correctOptionIndex": 0
+    },
+    {
+      "question": "Which country won the ICC Men\u0027s Cricket World Cup in 2023?",
+      "options": ["India", "England", "Australia", "New Zealand"],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "How many rings are there on the Olympic flag?",
+      "options": ["4", "5", "6", "7"],
+      "correctOptionIndex": 1
+    }
+  ],
+  "Science Fiction": [
+    {
+      "question": "Who wrote the science fiction novel \u0027Dune\u0027?",
+      "options": [
+        "Isaac Asimov",
+        "Frank Herbert",
+        "Arthur C. Clarke",
+        "Philip K. Dick"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "question": "What is the name of the spaceship in the movie \u0027Alien\u0027 (1979)?",
+      "options": ["Enterprise", "Nostromo", "Serenity", "Discovery One"],
+      "correctOptionIndex": 1
+    },
+    {
+      "question": "In \u0027Star Wars\u0027, what color is Mace Windu\u0027s lightsaber?",
+      "options": ["Blue", "Green", "Purple", "Red"],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "Which author created the Three Laws of Robotics?",
+      "options": ["Isaac Asimov", "H. G. Wells", "Jules Verne", "Ray Bradbury"],
+      "correctOptionIndex": 0
+    },
+    {
+      "question": "In \u0027The Matrix\u0027, what is the protagonist\u0027s real-world name?",
+      "options": ["Neo", "Trinity", "Thomas Anderson", "Morpheus"],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "Which 1968 film features the AI system HAL 9000?",
+      "options": [
+        "Blade Runner",
+        "2001: A Space Odyssey",
+        "Solaris",
+        "The Terminator"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "question": "What is the name of the doctor in \u0027Doctor Who\u0027?",
+      "options": ["The Doctor", "Dr. Smith", "Dr. Brown", "Professor Who"],
+      "correctOptionIndex": 0
+    },
+    {
+      "question": "In \u0027Back to the Future\u0027, what speed must the DeLorean reach to time travel?",
+      "options": ["77 mph", "88 mph", "99 mph", "108 mph"],
+      "correctOptionIndex": 1
+    },
+    {
+      "question": "Which planet is home to the Na\u0027vi in \u0027Avatar\u0027?",
+      "options": ["Pandora", "Arrakis", "Krypton", "Vulcan"],
+      "correctOptionIndex": 0
+    },
+    {
+      "question": "Who directed the movie \u0027Interstellar\u0027?",
+      "options": [
+        "Denis Villeneuve",
+        "Christopher Nolan",
+        "James Cameron",
+        "Ridley Scott"
+      ],
+      "correctOptionIndex": 1
+    }
+  ],
+  "Current Affairs": [
+    {
+      "question": "Which city hosted the 2024 Summer Olympics?",
+      "options": ["Tokyo", "Paris", "Los Angeles", "Brisbane"],
+      "correctOptionIndex": 1
+    },
+    {
+      "question": "Which country hosted the 2023 G20 Leaders\u0027 Summit?",
+      "options": ["Indonesia", "India", "Brazil", "Italy"],
+      "correctOptionIndex": 1
+    },
+    {
+      "question": "Which country joined NATO in 2024?",
+      "options": ["Sweden", "Finland", "Ukraine", "Austria"],
+      "correctOptionIndex": 0
+    },
+    {
+      "question": "What does COP in COP climate conferences stand for?",
+      "options": [
+        "Council of Parties",
+        "Conference of Presidents",
+        "Conference of the Parties",
+        "Committee of Protocol"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "Which mission marked India\u0027s first solar observatory launch in 2023?",
+      "options": ["Chandrayaan-3", "Aditya-L1", "Mangalyaan", "Gaganyaan"],
+      "correctOptionIndex": 1
+    },
+    {
+      "question": "Which country is scheduled to host COP30 in 2025?",
+      "options": ["Brazil", "UAE", "Azerbaijan", "Egypt"],
+      "correctOptionIndex": 0
+    },
+    {
+      "question": "Which AI company released GPT-4o in 2024?",
+      "options": ["Google", "Anthropic", "OpenAI", "Meta"],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "Which country will host the FIFA World Cup 2026 jointly with Canada and Mexico?",
+      "options": ["United States", "Brazil", "Spain", "Qatar"],
+      "correctOptionIndex": 0
+    },
+    {
+      "question": "Which global event occurs annually on June 5 to raise environmental awareness?",
+      "options": [
+        "Earth Hour",
+        "World Environment Day",
+        "World Water Day",
+        "World Ozone Day"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "question": "Which bloc expanded in 2024 to include countries like Egypt and UAE?",
+      "options": ["G7", "ASEAN", "BRICS", "NATO"],
+      "correctOptionIndex": 2
+    }
+  ],
+  "Environment": [
+    {
+      "question": "Which gas is the largest contributor to the greenhouse effect from human activities?",
+      "options": ["Oxygen", "Carbon dioxide", "Argon", "Neon"],
+      "correctOptionIndex": 1
+    },
+    {
+      "question": "What is the process of planting trees in areas that were not previously forests called?",
+      "options": [
+        "Deforestation",
+        "Afforestation",
+        "Urbanization",
+        "Desertification"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "question": "Which layer of Earth\u0027s atmosphere contains most weather phenomena?",
+      "options": ["Stratosphere", "Mesosphere", "Troposphere", "Thermosphere"],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "Which renewable energy source uses moving air to generate electricity?",
+      "options": ["Solar", "Hydro", "Wind", "Geothermal"],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "What do the three Rs in waste management stand for?",
+      "options": [
+        "Reduce, Reuse, Recycle",
+        "Read, Rewrite, Repeat",
+        "Recover, Remove, Replace",
+        "Reduce, Repair, Return"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "question": "Which international agreement aims to limit global warming to well below 2C?",
+      "options": [
+        "Kyoto Protocol",
+        "Paris Agreement",
+        "Montreal Protocol",
+        "Basel Convention"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "question": "What is the main cause of ocean acidification?",
+      "options": [
+        "Plastic pollution",
+        "Oil spills",
+        "Increased carbon dioxide absorption",
+        "Overfishing"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "Which ecosystem stores large amounts of carbon and is often called a \u0027blue carbon\u0027 habitat?",
+      "options": ["Mangroves", "Deserts", "Grasslands", "Tundra"],
+      "correctOptionIndex": 0
+    },
+    {
+      "question": "What type of species has a disproportionately large impact on its ecosystem?",
+      "options": [
+        "Invasive species",
+        "Endangered species",
+        "Keystone species",
+        "Indicator species"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "question": "Which household action best helps conserve water?",
+      "options": [
+        "Taking longer showers",
+        "Fixing leaking taps",
+        "Running half-load washing cycles",
+        "Watering lawns at noon"
+      ],
+      "correctOptionIndex": 1
+    }
+  ]
+}
